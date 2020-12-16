@@ -1,0 +1,46 @@
+Matrix A:
+    1    -8     7 
+    4     6    15 
+  -18    21    33 
+
+
+Matrix B:
+   34    25    -9 
+   71    43   -28 
+   96    51    87 
+
+
+Matrix A + Matrix B:
+   35    17    -2 
+   75    49   -13 
+   78    72   120 
+
+
+Matrix A - Matrix B:
+  -33   -33    16 
+  -67   -37    43 
+ -114   -30   -54 
+
+
+Matrix B - Matrix A:
+   33    33   -16 
+   67    37   -43 
+  114    30    54 
+
+
+Matrix A * Matrix B: 
+  138    38   824 
+ 2002  1123  1101 
+ 4047  2136  2445 
+
+
+Matrix B * Matrix A: 
+  296  -311   316 
+  747  -898   218 
+-1266  1365  4308 
+
+
+The determinate of Matrix A is: 4443
+The determinate of Matrix B is: -41316
+
+
